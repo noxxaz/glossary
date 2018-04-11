@@ -1,6 +1,6 @@
 ---
 headword: ISV
-expansion: 
-definition:
+expansion: Independent Software Vendor
+definition: In the context of PCF, ISVs are 3rd party companies that have software that integrates somehow with PCF. Examples include MongoDB, New Relic, etc.
 links:
 see_also:
